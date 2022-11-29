@@ -6,3 +6,11 @@ body {
 img {
     border-radius: 50%;
 }
+
+i {
+    color: black;
+}
+
+.redes {
+    font-size: 30px;
+}
